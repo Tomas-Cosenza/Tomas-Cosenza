@@ -13,7 +13,7 @@
 
 <h2>⚡ About Me</h2>
 
-I am Currently in my fifth year of my Engineering degree, where I'll receive a Master's degree in Electroacoustics. Additionally, I'm simultaneously pursuing a degree in Information Systems Engineering. <br/>
+I am Currently in my fifth year of my Engineering degree, where I'll receive a Master's degree in Electroacoustics. Additionally, I'm simultaneously pursuing a degree in Computer Science/Engineering. <br/>
 I work as a programmer, having worked for national companies and freelance as a video game developer. I also dedicate myself to teaching; I've taught Mathematics, Physics, and even music in local schools. <br/>
 I'm passionate about the worlds of programming and audio, and I find the intersection between both disciplines very interesting.
 
