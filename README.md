@@ -41,7 +41,7 @@ Here are some images showcasing what you can expect of the projects listed in pr
 
 
 
-<h2> 💬 Connect with me:</h2>
+<h2> 💬 Feel free to connect with me:</h2>
 
 [<img align="left" alt="TomásCosenza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TomásCosenza | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
