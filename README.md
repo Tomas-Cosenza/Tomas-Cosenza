@@ -3,7 +3,7 @@
 <h2>👨‍💻 Development Projects:</h2>
 
 - <b>Data Structures and Algorithms for Machine Learning </b>
-  - [Data Science and Machine Learning with Python](https://github.com/Tomas-Cosenza/Linear-regression-algorithm)
+  - [Data Science algorithms with Python](https://github.com/Tomas-Cosenza/Linear-regression-algorithm)
 - <b>C# (.NET, Game development)</b>
   - [First Person Shooter (Selenites)](https://github.com/Tomas-Cosenza/Selenites)
   - [Isometric RPG demo (Technomancers)](https://github.com/SilverVentu/Technomancer-Arena)
