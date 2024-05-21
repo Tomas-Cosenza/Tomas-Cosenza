@@ -11,6 +11,10 @@
 - <b>Python</b>
   - [Digital Signal Processing for audio Signal and Noise reduction ](https://github.com/Tomas-Cosenza/Python-project---Digital-Signal-Processing)
   - [Password manager application made utilizing Python with JSON data format ](https://github.com/Tomas-Cosenza/Password_manager/tree/main)
+- <b>RPA </b>
+  - [Data Entry Bot made with UiPath ](https://github.com/Tomas-Cosenza/Data-Entry-Bot)
+ 
+    
 
 <h2>⚡ About Me</h2>
 
