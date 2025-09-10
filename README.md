@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tomás! <br/><a href="https://www.linkedin.com/in/tomas-cosenza-5a738019b/">Advanced Engineer student</a>, <a href="https://github.com/Tomas-Cosenza">Programmer</a>, <a href="https://legion-studio.itch.io/">Game developer</a></h1>
+<h1>Hi, I'm Tomás! <br/><a href="https://www.linkedin.com/in/tomas-cosenza-5a738019b/">Advanced Engineering student</a>,  <a href="https://legion-studio.itch.io/">developer</a></h1>
 
 <h2>👨‍💻 Development Projects:</h2>
 
