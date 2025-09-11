@@ -4,6 +4,8 @@
 
 - <b>Data Structures and Algorithms for Machine Learning </b>
   - [Data Science algorithms with Python](https://github.com/Tomas-Cosenza/Linear-regression-algorithm)
+- <b>Acoustics and Psychoacoustics </b>
+  - [Acoustic Redesign of a concert hall](https://github.com/Tomas-Cosenza/Acoustic-redesign-of-a-Concert-Hall)
 - <b>C# (.NET, Game development)</b>
   - [First Person Shooter (Selenites)](https://github.com/Tomas-Cosenza/Selenites)
   - [Isometric RPG demo (Technomancers)](https://github.com/SilverVentu/Technomancer-Arena)
